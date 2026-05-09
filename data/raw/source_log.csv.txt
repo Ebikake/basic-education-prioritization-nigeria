@@ -1,9 +1,0 @@
-source_name,file_name,source_url,date_downloaded,purpose,notes
-
-UBEC,UBEC_Annual_Report_2024.pdf,https://ubec.gov.ng/reports/,2026-04-28,Education-sector indicators and infrastructure context,Raw PDF retained for audit trail
-
-NBS,NBS_Poverty_Indicators.xlsx,https://www.nigerianstat.gov.ng/elibrary,2026-04-28,Socioeconomic need proxy,Raw file retained for audit trail
-
-Budget Office,Federal_Budget_2026.pdf,https://budgetoffice.gov.ng/,2026-05-01,Education capital-budget context,Raw file retained for fiscal context
-
-DMO,DMO_State_Domestic_Debt_March_2025.xlsx,https://www.dmo.gov.ng/,2026-05-01,State domestic debt context,Raw file retained for fiscal-pressure interpretation
