@@ -1,0 +1,6 @@
+research_question,main_task,minimum_requirement,available_observations,assessment
+RQ1,Indicator identification,114,148,Satisfied for model-ready core analysis
+RQ2,BENI construction,114,148,Satisfied for BENI-Core; BENI-Expanded uses 37-state 2022 validation
+RQ3,State prioritization,97,148,Satisfied for core prioritization; expanded prioritization covers 37 states in 2022
+RQ4,Allocation comparison,385,148,Treated as decision-support comparison rather than formal population-inference test
+RQ5,Machine-learning validation,Model-specific,148 core; 37 expanded,Satisfied for interim validation

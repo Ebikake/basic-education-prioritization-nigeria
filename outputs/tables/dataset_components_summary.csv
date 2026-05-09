@@ -1,0 +1,4 @@
+dataset,rows,columns,purpose
+integrated_state_year_dataset.csv,148,44,Final integrated state-year dataset
+beni_core_model_ready.csv,148,20,BENI-Core model-ready dataset
+beni_expanded_2022_model_ready.csv,37,26,BENI-Expanded 2022 model-ready dataset

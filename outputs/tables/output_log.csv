@@ -1,0 +1,9 @@
+output_file,location,report_use,description
+core_model_performance.csv,outputs/tables/,Appendix C1; Section 6.5,Core model performance table
+expanded_model_performance.csv,outputs/tables/,Appendix C2; Section 6.5,Expanded model performance table
+expanded_beni_ranking_comparison.csv,outputs/tables/,Appendix C3-C4; Section 7.2,Actual versus predicted BENI-Expanded ranking
+top_10_priority_states.csv,outputs/tables/,Appendix C4; Section 7.2,Top 10 BENI-Expanded priority states
+coefficient_importance_beni_expanded.csv,outputs/tables/,Appendix C5; Section 6.5,BENI-Expanded coefficient importance
+cleaning_summary.csv,outputs/tables/,Section 5.2,Cleaning and missingness summary
+sample_size_assessment.csv,outputs/tables/,Section 5.3,Sample-size assessment by research question
+dataset_components_summary.csv,outputs/tables/,Appendix B; Section 4,Dataset components summary

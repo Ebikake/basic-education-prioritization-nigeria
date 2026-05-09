@@ -1,0 +1,4 @@
+dataset,rows,columns,missing_values,states,years,status
+beni_core_model_ready.csv,148,20,0,37,"2018, 2019, 2020, 2022",model-ready
+beni_expanded_2022_model_ready.csv,37,26,0,37,2022,model-ready
+integrated_state_year_dataset.csv,148,44,2664,37,"2018, 2019, 2020, 2022",integrated processed dataset

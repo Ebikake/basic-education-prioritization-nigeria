@@ -1,0 +1,20 @@
+Capstone ML Model Results Summary
+
+Project:
+A Data-Driven Framework for Prioritizing Public Capital Allocation to Basic Education Infrastructure across Nigerian States Using Education Need Indicators
+
+Workbook:
+Capstone_ML_Model_Results_Workbook.xlsx
+
+Included Evidence:
+- Model Summary
+- Core Model Performance
+- Expanded Model Performance
+- Expanded BENI Ranking Comparison
+- Top 10 Priority States
+- BENI-Expanded Coefficient Importance
+- Sample Size Assessment
+- Cleaning Summary
+
+Interpretation Note:
+The modelling results validate BENI reproducibility and ranking stability. Because BENI is an engineered composite index, strong linear-model performance should be interpreted as internal consistency rather than causal prediction.
